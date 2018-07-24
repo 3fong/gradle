@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-24T01:43:12" hostname="EDZ-20170803ZWE" time="0.235">
+  <properties/>
+  <testcase name="serializeBasicTypes" classname="LibraryTest" time="0.235"/>
+  <system-out><![CDATA[age = 39
+fullName = "Larson Richard"
+tags = ["JavaScript","AngularJS","Yeoman"]
+registered = true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
